@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="880dp"
+    android:clickable="true"
+    android:layout_height="match_parent">
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button1"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView11"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button11"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView12"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button12"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView13"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button13"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView14"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button14"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView15"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button15"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView16"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button16"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView17"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button17"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView18"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button18"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView19"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button19"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView21"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button21"
+            android:text="Column 2" />
+    </TableRow>
+    <!-- 2 columns -->
+    <TableRow
+        android:id="@+id/tableRow31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_focus"
+        android:clickable="true"
+        android:padding="5dip" >
+
+        <TextView
+            android:id="@+id/textView31"
+            android:text="Column 1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/button31"
+            android:text="Column 2" />
+    </TableRow>
+</TableLayout>
