@@ -193,7 +193,7 @@ public class MainFragment extends BrowseFragment {
                         ArrayObjectAdapter listRowAdapter = new ArrayObjectAdapter(cardPresenter);
                         Movie movie = new Movie();
                         movie.setTitle(null);
-                        movie.setVideoUrl("http://envivo.goles3d.s3.amazonaws.com/LIGA_BBVA/11177_Valencia_1-0_Malaga_envivo.mp4");
+                        movie.setVideoUrl("http://jdd4533.cloudflare.com/bunny.mp4");
                         movie.setCardImageUrl("http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review/card.jpg");
                         movie.setBackgroundImageUrl("http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg");
                         listRowAdapter.add(movie);
